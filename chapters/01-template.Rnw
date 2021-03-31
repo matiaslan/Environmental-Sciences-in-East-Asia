@@ -1,4 +1,4 @@
-\chapter{Chapter Title}
+\chapter{Template -- Chapter Title}
 
 \chapterauthor{Chapter Author Name}
 

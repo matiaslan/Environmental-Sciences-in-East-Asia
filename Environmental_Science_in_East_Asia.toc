@@ -24,7 +24,7 @@
 \contentsline {subsubsection}{Cross-References}{xiii}{section*.20}
 \contentsline {subsubsection}{Bibliography generation}{xiii}{section*.21}
 \contentsline {subsubsection}{Creating glossary words}{xiii}{section*.22}
-\contentsline {chapter}{Chapter Title}{xv}{chapter*.23}
+\contentsline {chapter}{Template -- Chapter Title}{xv}{chapter*.23}
 \contentsline {section}{\numberline {0.5}Section Heading}{xv}{section.0.5}
 \contentsline {subsection}{\numberline {0.5.1}Subsection Headings}{xv}{subsection.0.5.1}
 \contentsline {subsubsection}{Optional Subsubsection Headings}{xv}{section*.24}
