@@ -282,11 +282,11 @@ maunaloa$average[maunaloa$average==-99.99] <- NA
 maunaloa <- data.frame(year=maunaloa$year, month=maunaloa$month, decimal.date=maunaloa$decimal.date, average=maunaloa$average)
 head(maunaloa)
 str(maunaloa)
-write.csv(maunaloa, file = "/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/maunaloa.csv", eol = "\n", row.names = F)
+write.csv(maunaloa, file = "/home/CAMPUS/mwl04747/github/Environmental-Sciences-in-East-Asia/data/maunaloa.csv", eol = "\n", row.names = F)
 @
 
 <<analyzingdata, echo=FALSE, results=FALSE, warning=FALSE, message=FALSE>>=
-maunaloa = read.csv("/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/maunaloa.csv")
+maunaloa = read.csv("/home/CAMPUS/mwl04747/github/Environmental-Sciences-in-East-Asia/data/maunaloa.csv")
 library(dplyr)
 library(tidyverse)
 library(caret)
